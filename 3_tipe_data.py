@@ -10,8 +10,3 @@ d= True
 e= 5+6j
 print(type(a), type(b), type(c), type(d), type(e)) #melihat type data pada variable
 #<class 'int'> <class 'str'> <class 'float'> <class 'bool'> <class 'complex'>
-
-
-
-
-
